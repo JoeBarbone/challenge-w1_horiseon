@@ -21,3 +21,8 @@ WHEN I  view the heading attributes
 THEN    they fall in sequential order
 WHEN I  view the title element
 THEN I  find a concise, descriptive title
+
+Changes made:
+Changed html to use semantic tags as opposed to div
+Updated/consolidated css file to be more efficient by creating classes that can be used multiple times as opposed to creating a new class for each item
+Created git repository, published site to https://joebarbone.github.io/challenge-w1_horiseon/
