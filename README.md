@@ -4,7 +4,7 @@
 
 This challenge will be about code consolidation and efficiency. By refactoring the code, it will be cleaner, easier to understand and rank higher in search engines such as Google.
 
-User Story
+User Story  
 AS A    marketing agency
 I WANT  a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
