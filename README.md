@@ -28,5 +28,5 @@ Updated/consolidated css file to be more efficient by creating classes that can 
 Created git repository, published site to https://joebarbone.github.io/challenge-w1_horiseon/  
 
 ## Screenshots
-![alt text]https://joebarbone.github.io/challenge-w1_horiseon/assets/images/W1C1_Horiseon_top.png?raw=true  
-![alt text]https://joebarbone.github.io/challenge-w1_horiseon/assets/images/W1C1_Horiseon_bottom.png?raw=true  
+![Horiseon Top](https://joebarbone.github.io/challenge-w1_horiseon/assets/images/W1C1_Horiseon_top.png)
+![Horiseon Bottom](https://joebarbone.github.io/challenge-w1_horiseon/assets/images/W1C1_Horiseon_bottom.png)
