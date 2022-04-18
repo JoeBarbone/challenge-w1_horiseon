@@ -30,3 +30,9 @@ Created git repository, published site to https://joebarbone.github.io/challenge
 ## Screenshots
 ![Horiseon Top](https://joebarbone.github.io/challenge-w1_horiseon/assets/images/W1C1_Horiseon_top.png)
 ![Horiseon Bottom](https://joebarbone.github.io/challenge-w1_horiseon/assets/images/W1C1_Horiseon_bottom.png)
+
+## Live Site
+
+[Challenge 1 - Horiseon Refactor](https://joebarbone.github.io/challenge-w1_horiseon/)
+
+===
